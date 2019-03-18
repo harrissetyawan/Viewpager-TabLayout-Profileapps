@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TugasViewTab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="abdul_haris_setyawan">Abdul Haris Setyawan</string>
+    <string name="_22_y_o">22 Y.O</string>
+    <string name="SEMARANG"/>
+    <string name="semarang_id">SEMARANG, ID</string>
+    <string name="profile">Profile</string>
+    <string name="_165">165</string>
+    <string name="_22">22</string>
+    <string name="age">Age</string>
+    <string name="height">Height</string>
+    <string name="_60">60</string>
+    <string name="weight">Weight</string>
+    <string name="harrissetyawan">/harrissetyawan</string>
+    <string name="about">"Hi there! this is my first personal android apps that i build by my self."</string>
+    <string name="music_head">
+        music that I often listen to..
+    </string>
+    <string name="movie_head">Movies/Tv Shows that i loved the most..</string>
+    <string name="games_head">Favorite games of all times..</string>
+</resources>
